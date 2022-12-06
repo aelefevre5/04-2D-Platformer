@@ -1,22 +1,24 @@
-# 2D-Platformer-Character
+# 04-2D-Platformer
+12/05/2022
 
-A somewhat-generic character (including animations and state machine) appropriate for a 2D platformer built in Godot. Includes test level.
+## A simple 2D-Platformer game.
 
-## Implementation
-
-Built using Godot 3.5
+## Implemented,
+An enemy 
+Multiple levels
+Moveable character that jumps and moves around
+Point system
+Pause menu
+Save and load options
+Camera follows player
+Terrain with which to interact
 
 ## References
-
-The player sprite is adaptated from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah
-The warrior sprite sheet is available from [Clembod at itch.io](https://clembod.itch.io/warrior-free-animation-set)
-The Knight sprite sheets are available from [OcO at itch.io](https://oco.itch.io/medieval-fantasy-character-pack)
-The adventurer sprite sheet is avalable from [rvros at itch.io](https://rvros.itch.io/animated-pixel-hero)
+https://kenney.nl/assets/scribble-platformer
+https://github.com/BL-MSCH-C220-F22/2D-Platformer-Character
 
 ## Future Development
-
 None
 
-## Created by 
-
-Jason Francis
+## Created by
+Alexander Lefevre
